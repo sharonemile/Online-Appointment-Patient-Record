@@ -34,8 +34,3 @@ The main objective of the project  to provide a simple and efficient digital sys
 
 A functional application that allows users to manage patient records and doctor appointments efficiently with proper **CRUD (Create, Read, Update, Delete)** functionality.
 
-## 📌 Project Status
-
-- 🟢 Phase 1: GitHub Repository Setup
-- 🟡 Phase 2: UI/UX Design
-- 🔵 Phase 3: Database Schema Design
